@@ -1,6 +1,6 @@
 # apiary-example
 
-An Example RESTful API Designed with apiary using a sample Polls API.
+An Example RESTful API Designed with apiary using a sample Polls API to test.
 
 https://app.apiary.io/movies243/
 
