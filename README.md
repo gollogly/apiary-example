@@ -1,4 +1,4 @@
-# Simple Apiary-example
+# Simple Apiary example
 
 An Example protoype RESTful API with Apiary.
 
